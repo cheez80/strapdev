@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    
+    {% if page.url == "/" %}
+      {% include header.html %}
+    {% else %}
+      {% include header-small.html %}
+    {% endif %}
+
+    {{ content }}
+    
+    {% include footer.html %}
+
+  </body>
+
+</html>

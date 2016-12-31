@@ -1,0 +1,13 @@
+<section class="case-studies">
+	<h2 class="introtext">02. Case Studies <span class="sort">/ sorted from newest to oldest</span></h2>
+
+	<ul>
+	  {% for post in site.posts %}
+	    <li>
+	      <a href="{{ post.url }}">{{ post.title }}</a>
+	      <p>{{ post.intro }}</p>
+	    </li>
+	  {% endfor %}
+	</ul>
+
+</section>

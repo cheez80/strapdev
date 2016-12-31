@@ -1,0 +1,10 @@
+---
+layout: page
+title:  "Booking.com"
+date:   2016-12-27 00:00:00
+categories: 
+intro: "Booking.com, a subsidiary of the Priceline Group, is the world's largest accomodations OTA."
+---
+<section>
+	Booking.com is the world's largest accomodations OTA. The company is a subsidiary of Priceline Group, ranked no. 308 on the Fortune 500. 
+</section>

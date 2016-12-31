@@ -1,0 +1,10 @@
+---
+layout: page
+title:  "PickFu"
+date:   2016-12-24 00:00:00
+categories: 
+intro: "PickFu is an interface for Amazon's Mechanical Turk that allows you to quickly validate ideas."
+---
+<section>
+	PickFu is a pretty cool "A/B testing" app — you can use it to quickly validate an idea, logo, design, hypothesis, etc. The founders asked me to update the styling of the web app.
+</section>
